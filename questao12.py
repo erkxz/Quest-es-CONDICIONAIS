@@ -1,7 +1,7 @@
-salario = float(input("Digite o salario: "))
-prestacao = float(input("Digite o valor da prestacao: "))
+salario = float(input("digite o salario: "))
+prestacao = float(input("digite o valor da prestacao: "))
 
 if prestacao > salario * 0.20:
-    print("Emprestimo nao concebido")
+    print("emprestimo nao concebido")
 else:
-    print("Emprestimo concebido")
+    print("emprestimo concebido")
