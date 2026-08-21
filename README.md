@@ -1,1 +1,2 @@
-# Quest-es-CONDICIONAIS
+Questoes condicionais
+resoluçao de questoes
