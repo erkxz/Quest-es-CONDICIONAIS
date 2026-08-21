@@ -2,7 +2,6 @@ import math
 
 n1 = float(input("digite o primeiro numero: "))
 n2 = float(input("digite o segundo numero: "))
-
 if n1 == n2:
     print("cubo:", n1 ** 3, n2 ** 3)
 elif n1 < n2:
