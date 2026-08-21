@@ -1,5 +1,5 @@
-valor = int(input("Digite um numero inteiro: "))
+valor = int(input("digite um numero inteiro: "))
 if valor < 0:
-    print("Numero invalido")
+    print("numero invalido")
 else:
-    print("Numero valido")
+    print("numero valido")
