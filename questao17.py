@@ -1,12 +1,12 @@
-idade = int(input("Digite a idade do jogador: "))
+idade = int(input("digite a idade do jogador: "))
 
 if 5 <= idade <= 7:
-    print("Infantil A")
+    print("infantil A")
 elif 8 <= idade <= 10:
-    print("Infantil B")
+    print("infantil B")
 elif 11 <= idade <= 13:
-    print("Juvenil A")
+    print("juvenil A")
 elif 14 <= idade <= 17:
-    print("Juvenil B")
+    print("juvenil B")
 else:
-    print("Nao pertence a nenhuma categoria")
+    print("nao pertence a nenhuma categoria")
