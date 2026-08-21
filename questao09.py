@@ -1,5 +1,5 @@
-valor = float(input("Digite um numero: "))
+valor = float(input("digite um numero: "))
 if 20 < valor < 90:
-    print("Esta na faixa")
+    print("esta na faixa")
 else:
-    print("Nao esta na faixa")
+    print("nao esta na faixa")
