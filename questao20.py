@@ -1,8 +1,8 @@
-idade = int(input("Digite a idade: "))
+idade = int(input("digite a idade: "))
 
 if idade >= 65:
-    print("Pessoa idosa")
+    print("pessoa idosa")
 elif idade >= 18:
-    print("Maior de idade")
+    print("maior de idade")
 else:
-    print("Menor de idade")
+    print("menor de idade")
